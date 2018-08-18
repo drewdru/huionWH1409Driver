@@ -1,0 +1,8 @@
+*.mk
+*.cmd
+*.mod.*
+*.ko
+*.o
+*.odp
+.tmp_versions/
+.vscode/
